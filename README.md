@@ -1,8 +1,7 @@
     
 🚀 **INTRODUCTION**
 
-This is one of my repositories used for studying
-These folders will be today's study dates and assignments
+This is one of my repositories used for studying, These folders will be today's study dates and assignments
 
 **Author**: VinKay
 - **[Website]([https://github.com/DenverCoder1](https://nguyenquocvinh.glitch.me/)https://nguyenquocvinh.glitch.me/)**
