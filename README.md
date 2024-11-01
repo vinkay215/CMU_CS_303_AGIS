@@ -1,8 +1,7 @@
-    
 🚀 **INTRODUCTION**
+This is a basic random image and GIF API using PHP, which helps manage images for practical projects as needed.  
 
-This is one of my repositories used for studying, These folders will be today's study dates and assignments
-
+![Alt Text](./img.png)
 **Author**: VinKay
 - **[Website]([https://github.com/DenverCoder1](https://nguyenquocvinh.glitch.me/)https://nguyenquocvinh.glitch.me/)**
 https://nguyenquocvinh.glitch.me
