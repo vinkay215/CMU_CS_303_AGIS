@@ -1,7 +1,7 @@
-🚀 **INTRODUCTION**
-This is a basic random image and GIF API using PHP, which helps manage images for practical projects as needed.  
+🚀 **INTRODUCTION**  
 
-<img src="[URL_của_ảnh](https://github.com/vinkay215/Random-Image-API/blob/main/img.png?raw=true)" alt="Returned result" width="200"/>
+This is one of my repositories used for studying  
+
 **Author**: VinKay
 - **[Website]([https://github.com/DenverCoder1](https://nguyenquocvinh.glitch.me/)https://nguyenquocvinh.glitch.me/)**
 https://nguyenquocvinh.glitch.me
