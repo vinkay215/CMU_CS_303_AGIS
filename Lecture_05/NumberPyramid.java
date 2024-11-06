@@ -13,7 +13,7 @@ public class NumberPyramid {
                 System.out.print("");  
         // Như ví dụ của thầy thì kim tự tháp sẽ không hiển thị hình tam giác
         // nếu muốn nó hình tam giác thì bỏ khoảng cách vào trong System.out.print(" ");
-        // Kết quả hiển thị sẽ là
+        // Kết quả hiển thị sẽ là 
         //         1
         //        1 2
         //       1 2 3
