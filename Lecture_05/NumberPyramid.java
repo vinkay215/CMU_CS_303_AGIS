@@ -10,7 +10,7 @@ public class NumberPyramid {
         System.out.println("Number pyramid: ");
         for (int i = 1; i <= n; i++) { 
             for (int j = 1; j <= n - i; j++) {
-                System.out.print(" ");  
+                System.out.print("");  
         // Như ví dụ của thầy thì kim tự tháp sẽ không hiển thị hình tam giác
         // nếu muốn nó hình tam giác thì bỏ khoảng cách vào trong System.out.print(" ");
         // Kết quả hiển thị sẽ là
