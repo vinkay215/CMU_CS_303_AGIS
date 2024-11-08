@@ -1,6 +1,6 @@
 # Assignment 7  
 
-#Sample output:  
+Sample output:  
 
 ```xml
 Friends List: [Vinh, Ngan, Linh, Thuong, Thao]
