@@ -1,6 +1,6 @@
 🚀 **INTRODUCTION**  
 
-This is one of my repositories used for studying  
+This Theos project lets you create tweaks for .ipa files, like FPS, login, passcode, and notifications.
 
 **Author**: VinKay
 - **[Website]([https://github.com/DenverCoder1](https://nguyenquocvinh.glitch.me/)https://nguyenquocvinh.glitch.me/)**
