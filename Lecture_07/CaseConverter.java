@@ -1,5 +1,5 @@
 package Lecture_07;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class CaseConverter {
     public static void main(String[] args) {
